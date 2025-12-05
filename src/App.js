@@ -5,7 +5,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Pagenotfound from './components/Pagenotfound';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   Link,
